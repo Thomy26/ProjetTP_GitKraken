@@ -3,6 +3,7 @@
 ## Etape 1 :
 
 ### Question n°1 : 
+#### Dans l'interface de base de GitKraken nous pouvons sois créer un Repository, sois ouvrir un Repository éxistant ou cloner un Repository éxistant
 
 ### Question n°2 : 
 #### ![Alt text](image.png)
@@ -56,5 +57,5 @@
 ### Question n°11 :
 #### L'interface de GitKraken nous permet de visualiser les branches et les commits très simplement car nous avons des liaisons entre les branches et les commits ce qui nous permet de comprendre quels commits va avec quelles branches.
 
-### Question n°12 :
+### Question n°11 :
 #### Pour créer un Tag sur GitKraken nous devons juste faire un clic-droit sur le dernier Commit et nous devons sélectionner "Create Tag"
