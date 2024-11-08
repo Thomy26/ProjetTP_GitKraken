@@ -36,4 +36,4 @@
 
 ## Etape 3 : 
 
-### Question n°6 : Modification pour faire une erreur
+### Question n°6 : Modification pour faire une erreur depuis GitHub
