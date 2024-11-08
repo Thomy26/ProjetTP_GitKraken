@@ -52,3 +52,9 @@
 ### Question n°10 :
 #### Un merge direct est une fusion immédiate de deux branches dans GIT, c'est plus simple et plus rapide. Un PR est une demande formelle pour fusionner une branche dans une autre, mais avant que la PR sois validée, elle est examinée par d'autres personnes. 
 #### Dans les projets collaboratifs, la PR est plus utilisée car elle favorise la collaboration, la communication et garantit que les changements sont vérifiés avant leur intégration.
+
+### Question n°11 :
+#### L'interface de GitKraken nous permet de visualiser les branches et les commits très simplement car nous avons des liaisons entre les branches et les commits ce qui nous permet de comprendre quels commits va avec quelles branches.
+
+### Question n°12 :
+#### Pour créer un Tag sur GitKraken nous devons juste faire un clic-droit sur le dernier Commit et nous devons sélectionner "Create Tag"
