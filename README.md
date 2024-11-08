@@ -36,4 +36,19 @@
 
 ## Etape 3 : 
 
-### Question n°6 : Modification pour faire une erreur depuis GitHub
+### Question n°6 :
+#### Un conflit Git intervient lors de modifications concurrentes sur la même ligne d'un fichier, lors d'une suppression ou d'une modification simultanées d'un fichier, lors d'ajout de fichiers avec des noms identiques dans différentes branches.
+
+### Question n°7 : 
+#### Pour résoudre un conflit sur gitKraken, on doit aller sur l'interface et sélectionner les modifications que l'ont veut entre les deux fichiers README.md
+
+### Question n°8 :
+#### En termes simples, un commit de merge est un point de sauvegarde spécial dans Git qui est créé lorsqu’on combine deux branches ensemble.
+
+## Etape 3 : 
+### Question n°9 :
+#### Un PR permet d'éxaminer les modifications, de faciliter la collaboration ou d'assurer la gestion des sauvegardes.
+
+### Question n°10 :
+#### Un merge direct est une fusion immédiate de deux branches dans GIT, c'est plus simple et plus rapide. Un PR est une demande formelle pour fusionner une branche dans une autre, mais avant que la PR sois validée, elle est examinée par d'autres personnes. 
+#### Dans les projets collaboratifs, la PR est plus utilisée car elle favorise la collaboration, la communication et garantit que les changements sont vérifiés avant leur intégration.
