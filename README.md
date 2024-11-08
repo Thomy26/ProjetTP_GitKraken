@@ -3,7 +3,7 @@
 ## Etape 1 :
 
 ### Question n°1 : 
-#### Dans l'interface de base de GitKraken nous pouvons sois créer un Repository, sois ouvrir un Repository éxistant ou cloner un Repository éxistant
+#### Dans l'interface de base de GitKraken nous pouvons sois créer un Repository, sois ouvrir un Repository existant ou cloner un Repository existant.
 
 ### Question n°2 : 
 #### ![Alt text](image.png)
@@ -23,17 +23,17 @@
 
 ### Question n°4 :
 #### Modification de la ligne pour la question 4.
-#### 1 : Préparer les modifications
-#### 2 : Ajout des fichiers au Staging Area
-#### 3 : Rédiger le message de commit
-#### 4 : Confirmer le commit
-#### 5 : Pousser le commit vers le Repository distant (si nécessaire)
+#### 1 : Préparer les modifications.
+#### 2 : Ajout des fichiers au Staging Area.
+#### 3 : Rédiger le message de commit.
+#### 4 : Confirmer le commit.
+#### 5 : Pousser le commit vers le Repository distant (si nécessaire).
 
 ### Question n°5 :
 #### Pousser le commit vers le Repository distant permet de collaborer avec son équipe, d'avoir un suivi des versions, une sauvegarde des modifications.
 
 #### ![Alt text](image-1.png)
-#### Sélectionner la bonne branche, appuyer sur push et sélectionner le Repository distant et le configurer si besoin
+#### Sélectionner la bonne branche, appuyer sur push et sélectionner le Repository distant et le configurer si besoin.
 
 ## Etape 3 : 
 
@@ -59,4 +59,4 @@
 #### L'interface de GitKraken nous permet de visualiser les branches et les commits très simplement car nous avons des liaisons entre les branches et les commits ce qui nous permet de comprendre quels commits va avec quelles branches.
 
 ### Question n°12 :
-#### Pour créer un Tag sur GitKraken nous devons juste faire un clic-droit sur le dernier Commit et nous devons sélectionner "Create Tag"
+#### Pour créer un Tag sur GitKraken nous devons juste faire un clic-droit sur le dernier Commit et nous devons sélectionner "Create Tag".
