@@ -46,7 +46,8 @@
 ### Question n°8 :
 #### En termes simples, un commit de merge est un point de sauvegarde spécial dans Git qui est créé lorsqu’on combine deux branches ensemble.
 
-## Etape 3 : 
+## Etape 4 : 
+
 ### Question n°9 :
 #### Un PR permet d'éxaminer les modifications, de faciliter la collaboration ou d'assurer la gestion des sauvegardes.
 
